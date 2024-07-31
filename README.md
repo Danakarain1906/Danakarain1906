@@ -1,6 +1,6 @@
 👋 Hi, I’m @Danakarain1906
 
-👀 I’m interested in cloud computing, data analysis, and scalable application deployment.
+👀 I’m interested in cloud computing, data analysis, and  NLP in dialect Arabic.
 
 🌱 I’m currently learning advanced AWS services and fine-tuning machine learning models.
 
